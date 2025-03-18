@@ -1,4 +1,4 @@
-<h1 align="center"> Amigo Secreto </h1>
+ <h1 align="center"> Amigo Secreto </h1>
 
 ![image](https://github.com/user-attachments/assets/c486c39e-e6f9-458c-a279-ede2e7860ce2)
 
@@ -26,4 +26,5 @@ Sortear de forma aleatória os nomes escolhidos.
 Exibir o resultado sorteado na tela. 
 
 Clique abaixo para jogar 
-[Jogo Amigo Secreto] (https://github.com/Layaranobre/Desafio-amigo-secreto.wiki.git)
+[Jogo Amigo Secreto] 
+(https://github.com/Layaranobre/Desafio-amigo-secreto.wiki.git)
