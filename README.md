@@ -23,4 +23,7 @@ Este projeto é uma aplicação web simples para organizar e sortear amigos secr
 
 Adicionar os nomes dos participantes.
 Sortear de forma aleatória os nomes escolhidos.
-Exibir o resultado sorteado na tela.  
+Exibir o resultado sorteado na tela. 
+
+Clique abaixo para jogar 
+[Jogo Amigo Secreto](file:///C:/Users/layar/OneDrive/%C3%81rea%20de%20Trabalho/Programa%C3%A7%C3%A3o/challenge-amigo-secreto_pt/index.html)
