@@ -26,4 +26,4 @@ Sortear de forma aleatória os nomes escolhidos.
 Exibir o resultado sorteado na tela. 
 
 Clique abaixo para jogar 
-[Jogo Amigo Secreto](file:///C:/Users/layar/OneDrive/%C3%81rea%20de%20Trabalho/Programa%C3%A7%C3%A3o/challenge-amigo-secreto_pt/index.html)
+[Jogo Amigo Secreto] (https://github.com/Layaranobre/Desafio-amigo-secreto.wiki.git)
