@@ -27,4 +27,4 @@ Exibir o resultado sorteado na tela.
 
 Clique abaixo para jogar 
 [Jogo Amigo Secreto] 
-(https://github.com/Layaranobre/Desafio-amigo-secreto.wiki.git)
+(https://layaranobre.github.io/Desafio-amigo-secreto/)
